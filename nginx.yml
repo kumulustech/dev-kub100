@@ -5,7 +5,7 @@ metadata:
     run: nginx
   name: nginx
 spec:
-  replicas: 1
+  replicas: 2
   template:
     metadata:
       labels:
@@ -26,7 +26,7 @@ metadata:
   name: nginx
 spec:
   ports:
-  - nodePort: 32500
+  - nodePort: 32501
     port: 80
     protocol: TCP
     targetPort: 80
