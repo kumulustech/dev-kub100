@@ -1,6 +1,6 @@
 #KUB-030 - Kubernetes Basics - Kumulus Technologies
 
-From https://learn.kumul.us/kub-030
+From https://learn.kumul.us/courses/kub-030
 
 These are the notes and files needed for the Kumulus Technologies Kuberenets Basics class.  Here you will find a pod, deployment, and service description for a simple container service.
 
